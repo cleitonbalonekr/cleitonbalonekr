@@ -3,6 +3,7 @@
 
 ## Hi 👋
 I am passionate about solving problems using programming.
+Learning every day, building projects and helping other people with what I know is what makes my eyes shine.
 I'm a FullStack Developer:computer:
 
 

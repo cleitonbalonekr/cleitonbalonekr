@@ -1,5 +1,5 @@
-```markdown
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+
+
 
 # Cleiton Baloneker
 
@@ -16,4 +16,4 @@ I'm a FullStack Developer:computer:
 | 
 [![Gmail Badge](https://img.shields.io/badge/-cleitonbaloneker@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cleitonbaloneker@gmail.com)](mailto:cleitonbaloneker@gmail.com)
 
-```
+

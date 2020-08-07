@@ -2,10 +2,10 @@
 # Cleiton Baloneker
 
 ## Hi 👋
-I am passionate about solving problems using programming.
-Learning every day, building projects and helping other people with what I know is what makes my eyes shine.
-I'm a FullStack Developer:computer:
 
+I am passionate about solving problems using programming, learning every day and helping other people with what I know.
+
+I'm a FullStack Developer:computer:
 
  <br/> :purple_heart: &nbsp; Seeking to collaborate with Back-end projects using Node.js
  <br/> :blush: &nbsp; I can help you with Flexbox layout and Rest Api

@@ -1,9 +1,9 @@
 ```markdown
 <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-# Thiago Marinho
+# Cleiton Baloneker
 
-## Olá pessoal 👋
+## Hi 👋
 I am passionate about solving problems using programming.
 I'm a FullStack Developer:computer:
 
